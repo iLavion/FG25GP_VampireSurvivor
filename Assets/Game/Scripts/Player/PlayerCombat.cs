@@ -13,7 +13,6 @@ public class PlayerCombat : MonoBehaviour {
     public float ProjectileSpeed => projectileSpeed;
     public float ProjectileLifetime => projectileLifetime;
     private const float MIN_COOLDOWN_MULTIPLIER = 0.1f;
-    private const float AIM_RAYCAST_DISTANCE = 2f;
     private const float AIM_DIRECTION_MIN_SQRMAG = 0.001f;
     private float nextAttackTime;
     private float attackCooldownMultiplier = 1f;
