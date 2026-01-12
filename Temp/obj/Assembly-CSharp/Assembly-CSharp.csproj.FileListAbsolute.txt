@@ -1,0 +1,9 @@
+/mnt/GitHub/FG25GP_VampireSurvivor/Temp/bin/Debug/Assembly-CSharp.deps.json
+/mnt/GitHub/FG25GP_VampireSurvivor/Temp/bin/Debug/Assembly-CSharp.dll
+/mnt/GitHub/FG25GP_VampireSurvivor/Temp/bin/Debug/Assembly-CSharp.pdb
+/mnt/GitHub/FG25GP_VampireSurvivor/Temp/obj/Assembly-CSharp/Assembly-CSharp.csproj.AssemblyReference.cache
+/mnt/GitHub/FG25GP_VampireSurvivor/Temp/obj/Assembly-CSharp/Assembly-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/GitHub/FG25GP_VampireSurvivor/Temp/obj/Assembly-CSharp/Assembly-CSharp.csproj.CoreCompileInputs.cache
+/mnt/GitHub/FG25GP_VampireSurvivor/Temp/obj/Assembly-CSharp/Assembly-CSharp.sourcelink.json
+/mnt/GitHub/FG25GP_VampireSurvivor/Temp/obj/Assembly-CSharp/Assembly-CSharp.dll
+/mnt/GitHub/FG25GP_VampireSurvivor/Temp/obj/Assembly-CSharp/Assembly-CSharp.pdb

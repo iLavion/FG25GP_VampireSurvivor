@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 917f318e605a5e460b88ef6afdd08c82, type: 3}
+  m_Name: Upgrade_Balanced
+  m_EditorClassIdentifier: Assembly-CSharp::ScriptableUpgrade
+  id: balanced_1
+  displayName: Balanced Growth
+  description: "+3 Damage, +15 Health, +0.8 Speed"
+  rarity: 0
+  weight: 45
+  addMaxHealth: 15
+  addMaxHealthPercent: 0
+  addDamage: 3
+  addDamagePercent: 0
+  addMoveSpeed: 0.8
+  addMoveSpeedPercent: 0
+  attackCooldownPercent: 0
