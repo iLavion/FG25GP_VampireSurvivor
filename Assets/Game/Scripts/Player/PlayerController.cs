@@ -14,8 +14,6 @@ public class PlayerController : MonoBehaviour {
     private Keyboard keyboard;
     private void Start() {
         stamina = GetComponent<Stamina>();
-        if (stamina == null) stamina = GetComponentInParent<Stamina>();
-        if (stamina == null) stamina = gameObject.AddComponent<Stamina>();
         keyboard = Keyboard.current;
     }
     private void FixedUpdate() {
