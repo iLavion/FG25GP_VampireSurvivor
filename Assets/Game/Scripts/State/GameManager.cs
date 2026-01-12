@@ -75,7 +75,6 @@ public class GameManager : MonoBehaviour {
     private void Awake() {
         if (Instance != null && Instance != this) { Destroy(gameObject); return; }
         Instance = this;
-        DontDestroyOnLoad(gameObject);
         var hud = FindFirstObjectByType<GameHUD>();
         if (hud != null) {
             var hudCanvas = hud.GetComponentInParent<Canvas>();

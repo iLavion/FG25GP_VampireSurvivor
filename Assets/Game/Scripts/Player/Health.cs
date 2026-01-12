@@ -1,7 +1,6 @@
 using UnityEngine;
 using UnityEngine.Events;
 
-[RequireComponent(typeof(EnemyBase))]
 public class Health : MonoBehaviour {
     [SerializeField] private float maxHealth = 100f;
     [SerializeField] private float currentHealth = 100f;

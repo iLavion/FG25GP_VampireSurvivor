@@ -1,2 +1,0 @@
-# C# Final Assignment - VAMPIRE
-
